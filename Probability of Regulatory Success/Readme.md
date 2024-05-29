@@ -2,37 +2,29 @@
 
 ## Overview
 
-The **Probability of Regulatory Success** tool is designed to calculate the probability of regulatory success for various projects within a pharmaceutical company. It also provides detailed justifications for these probabilities and enables centralized team visibility for project planning.
+The **Probability of Regulatory Success** tool is designed to calculate the probability of regulatory success for various projects within a pharmaceutical company. It also provides detailed justifications for these probabilities and enables centralized team visibility for project feasability planning.
 
 ## Features
 
 - **Probability Calculation**: Calculate the likelihood of regulatory success based on multiple determinants.
-- **Justification Provision**: Automatically generate detailed justifications for the assigned probabilities.
-- **Centralized Visibility**: Store data within the application to enable centralized visibility and collaboration across teams.
+- **Justification Provision**: Allows adding detailed justifications for the assigned probabilities.
+- **Centralized Visibility**: Enables centralized visibility and collaboration across teams.
 - **Project Planning Support**: Aid in project planning by providing clear, data-driven insights into regulatory risks and success rates.
+- **Exporting Data and Automated reminders**: Allows users to export data and has built in automated reminder to remind users for task completion.
 
 ## Screenshots
 
 ### Home Page
-![Home Page](path/to/your/screenshot1.png)
+![image](https://github.com/AnonymousHippo21/PowerApps/assets/169428076/5d77c57e-ea46-46f2-8814-7036b85753b8)
 *The main dashboard providing an overview of all projects.*
 
-### Probability Calculation
-![Probability Calculation](path/to/your/screenshot2.png)
-*Calculate the probability of success and view detailed justifications.*
+### Probability Calculation (adding a new value)
+![PRS 3](https://github.com/AnonymousHippo21/PowerApps/assets/169428076/7b328044-e8d9-46c5-81a0-d7aae1ede0ee)
 
-### Detailed View
-![Detailed View](path/to/your/screenshot3.png)
+### Completed View
+![PRS 2](https://github.com/AnonymousHippo21/PowerApps/assets/169428076/fca82030-cbf6-44f7-ba72-17b70a1d1cec)
 *Detailed view of individual project assessments.*
 
-## How It Works
-
-1. **Data Input**: Users input key data points for their projects.
-2. **Probability Engine**: The tool uses a built-in engine to assess various determinants and calculate the probability of regulatory success.
-3. **Justification Report**: The tool generates a comprehensive report justifying the calculated probability.
-4. **Centralized Data Storage**: All data is stored within the app, enabling easy access and team collaboration.
-
-## Installation
 
 1. Clone the repository:
    ```sh
