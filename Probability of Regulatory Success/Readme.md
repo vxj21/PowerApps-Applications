@@ -1,5 +1,10 @@
 # Probability of Regulatory Success
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
 ## Overview
 
 The **Probability of Regulatory Success** tool is designed to calculate the probability of regulatory success for various projects within a pharmaceutical company. It also provides detailed justifications for these probabilities and enables centralized team visibility for project feasability planning.
@@ -25,7 +30,7 @@ The **Probability of Regulatory Success** tool is designed to calculate the prob
 ![PRS 2](https://github.com/AnonymousHippo21/PowerApps/assets/169428076/fca82030-cbf6-44f7-ba72-17b70a1d1cec)
 *Detailed view of individual project assessments.*
 
-
+## Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/probability-of-regulatory-success.git
