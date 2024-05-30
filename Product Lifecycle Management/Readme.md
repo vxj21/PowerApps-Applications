@@ -23,7 +23,7 @@ The **Product Lifecycle Management (PLM) Tool** is designed to assist supply cha
 
 ## Screenshots
 ![PLR test screen](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/7bb24a1c-c716-4227-8006-b91752e2cb5c)
+
 ![PLR 2](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/8512085d-ebbf-4574-b107-0987b9cfd903)
-![image](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/b0d45a44-3dbe-4f9d-824b-e4cd613f3572)
 
 
