@@ -40,7 +40,7 @@ The **Regulatory Submission and Approval Tracker** is designed to manage and str
 ### Worldwide Record View
 ![regional 3](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/5618c46f-1233-4da4-b100-2ab24fde5513)
 
-### Admin View
+### Help Screen
 ![image](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/7bc2f9ea-2e02-48ad-bd1c-e73bb1a26708)
 
 ### Miscellaneous
