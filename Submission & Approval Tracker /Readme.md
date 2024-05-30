@@ -43,10 +43,6 @@ The **Regulatory Submission and Approval Tracker** is designed to manage and str
 ### Admin View
 ![image](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/7bc2f9ea-2e02-48ad-bd1c-e73bb1a26708)
 
-### Detailed View
-![Detailed View](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/6e94ced2-e00e-42ee-86f2-bbd3e006c4df)
-
 ### Miscellaneous
 ![image](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/86daf6a6-2454-4942-a9ad-748ee1bc144e)
 ![image](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/1cf2b81f-a435-4090-9d93-87a60aa78e51)
-
