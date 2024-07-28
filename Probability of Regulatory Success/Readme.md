@@ -7,7 +7,7 @@
 
 ## Overview
 
-The **Probability of Regulatory Success** tool is designed to calculate the probability of regulatory success for various projects within a pharmaceutical company. It also provides detailed justifications for these probabilities and enables centralized team visibility for project feasability planning.
+The **Probability of Regulatory Success** tool is designed to calculate the probability of regulatory success for various projects within a company. It also provides detailed justifications for these probabilities and enables centralized team visibility for project feasability planning.
 
 ## Features
 
