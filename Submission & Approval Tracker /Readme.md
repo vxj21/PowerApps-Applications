@@ -7,7 +7,7 @@
 
 ## Overview
 
-The **Regulatory Submission and Approval Tracker** is designed to manage and streamline the tracking of regulatory submissions and approvals for various projects within a health science company. This application is split into regional and global milestones. The tool seamlessly integrates with project management tools to compare dates and ensures smooth updates and reviews by multi level regional and local teams.
+The **Regulatory Submission and Approval Tracker** is designed to manage and streamline the tracking of regulatory submissions and approvals for various projects. The tool seamlessly integrates with project management tools to compare dates and ensures smooth updates and reviews by multi level regional and local teams.
 
 ## Features
 
