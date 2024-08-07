@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -21,7 +21,5 @@ The **Product Lifecycle Management (PLM) Tool** is designed to assist supply cha
 - **Admin Control**: Admins can move the PLM request across various stages in case of issues, rather than having to move things step by step.
 - **Watch List**: Add colleagues to a watch list to keep them updated on the progress of the PLM request through automated notifications.
 
-## Screenshots
-![PLR test screen](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/7bb24a1c-c716-4227-8006-b91752e2cb5c)
-
+## Screenshot
 ![PLR 2](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/8512085d-ebbf-4574-b107-0987b9cfd903)
