@@ -19,4 +19,4 @@ A PowerApps tool to manage supply chain lifecycle processes. This tool work toge
 - **Attachments**: Allows adding of attachment and comments
 
 ## Screenshot
-![PLR 2](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/8512085d-ebbf-4574-b107-0987b9cfd903)
+![PLR 2](![PLR hackathon](https://github.com/user-attachments/assets/e0dfdd82-b6bb-4384-b9e2-69ef5baeac85)
