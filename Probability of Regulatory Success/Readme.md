@@ -7,15 +7,15 @@
 
 ## Overview
 
-The **Probability of Regulatory Success** tool is designed to calculate the probability of regulatory success for various projects within a company. It also provides detailed justifications for these probabilities and enables centralized team visibility for project feasability planning.
+The tool helps in calculating the probability of regulatory success for various projects within a company. It also provides detailed justifications for these probabilities and enables centralized team visibility for project feasability planning.
 
 ## Features
 
-- **Probability Calculation**: Calculate the likelihood of regulatory success based on multiple determinants.
-- **Justification Provision**: Allows adding detailed justifications for the assigned probabilities.
-- **Centralized Visibility**: Enables centralized visibility and collaboration across teams.
-- **Project Planning Support**: Aid in project planning by providing clear, data-driven insights into regulatory risks and success rates.
-- **Exporting Data and Automated reminders**: Allows users to export data and has built in automated reminder to remind users for task completion.
+- **Probability Calculation**: Calculate the likelihood of regulatory success based on multiple determinants
+- **Justification Provision**: Allows adding detailed justifications for the assigned probabilities
+- **Centralized Visibility**: Enables centralized visibility and collaboration across teams
+- **Project Planning Support**: Aid in project planning by providing clear, data-driven insights into regulatory risks and success rates
+- **Exporting Data and Automated reminders**: Allows users to export data and has built in automated reminder to remind users for task completion
 
 ## Screenshots
 ### Home Page
