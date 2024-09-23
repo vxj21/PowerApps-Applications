@@ -1,4 +1,4 @@
-# Regulatory Submission and Approval Tracker
+# Submission and Approval Tracker
 
 ## Table of Contents
 - [Overview](#overview)
@@ -7,18 +7,15 @@
 
 ## Overview
 
-The **Regulatory Submission and Approval Tracker** is designed to manage and streamline the tracking of regulatory submissions and approvals for various projects. The tool seamlessly integrates with project management tools to compare dates and ensures smooth updates and reviews by multi level regional and local teams.
+A tool to manage and streamline the tracking of various date based data. The tool seamlessly integrates with project management tools to compare dates and ensures smooth updates and reviews by multi level regional and local teams. Managing dates should not be frustrating !!!
 
 ## Features
 
-- **Regional and Worldwide Targets**: Track and manage submissions & approvals across different regions.
 - **Built in Collaborative features**: Automatically sends notifications for added responses, pending and overdue tasks - greatly enhances intra-team collaboration.
-- **Integration with Project Management Tools**: Pull information to compare dates between this tool and actual project management tools.
-- **Centralized Updates**: Allow global teams to review and update regional targets, making the overall process seamless.
-- **Visual Date Tracking**: Easily identify added, changed, upcoming, or missing dates during monthly reviews.
-- **Data Export and Automated Reminders**: Export data and set automated reminders for task completion.
-- **Dynamic Filtering**: Dynamically filter the data, so that you can easily get to the information that you are looking for.
-- **Security**: Role based persmission and security.
+- **Integration with Project Management Tools**: Pull information to compare dates between this tool and actual project management tools
+- **Visual Date Tracking**: Easily identify added, changed, upcoming, or missing dates during monthly reviews
+- **Data Export and Automated Reminders**: Export data and set automated reminders for task completion
+- **Dynamic Filtering**: Dynamically filter the data, so that you can easily get to the information that you are looking for
 
 ## Screenshots
 
