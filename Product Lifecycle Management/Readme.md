@@ -7,8 +7,16 @@
 
 ## Overview
 
-The **Product Lifecycle Management (PLM) Tool** is designed to assist supply chain teams in launching new products and managing them through their entire lifecycle. This tool work together with Power automate to send automated notifications based on custom preferences, built-in comment features, role-based security, status tracking, dynamic workflows, field validation, and attachment handling. The PLM tool streamlines the process of managing product requests and ensures seamless communication and collaboration across teams.
+A PowerApps tool to manage supply chain lifecycle processes. This tool work together with Power automate to manage automated notifications and with MS dataverse to store data. This tool has was designed to streamlines the process of managing product launches and to ensures seamless communication & collaboration across teams.
 
+## Features
+
+- **Automated Notifications**: Send notifications based on custom preferences, such as type of request, destination country, current stage, and manufacturing site..etc. Notifications will also be sent for reminders and overdue tasks
+- **Built-in Comments**: Collate all communication in one spot, capturing the date and time, allowing teams to easily access previous comments and add clarifying information
+- **Status Tracker**: Easily see the status of the request with a built-in tracker 
+- **Dynamic form and workflow**: Displays different set of questions and workflows based on the provided responses
+- **Field Validation**
+- **Attachments**: Allows adding of attachment and comments
 
 ## Screenshot
 ![PLR 2](https://github.com/AnonymousHippo21/PowerApps-Applications/assets/169428076/8512085d-ebbf-4574-b107-0987b9cfd903)
